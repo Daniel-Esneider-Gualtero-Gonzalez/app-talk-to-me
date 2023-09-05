@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Styless LInk active and Inactive */
+
+.active{
+  font-weight: bold;
+  border-bottom: 2px solid black;
+  margin: 0px 10px;
+}
+.inactive{
+  margin: 0px 10px;
+}
