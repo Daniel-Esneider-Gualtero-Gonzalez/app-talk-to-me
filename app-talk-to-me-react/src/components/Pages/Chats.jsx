@@ -7,6 +7,8 @@ function Chats() {
     <section className="border border-black mt-10">
         <ChatHeader />
         <ChatHeader />
+       
+
     </section>
 
     </>
